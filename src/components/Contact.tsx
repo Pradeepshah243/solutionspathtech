@@ -149,7 +149,7 @@ export function Contact() {
                   <div>
                     <h4 className="text-lg text-[#111827] mb-1">Website</h4>
                     <a href="#" className="text-gray-600 hover:text-[#6D28D9] transition-colors">
-                      www.solutionspath.com.np
+                      www.solutionspathtechnology.com.np
                     </a>
                   </div>
                 </div>

@@ -3,24 +3,24 @@ import { Star, ChevronLeft, ChevronRight, Quote } from 'lucide-react';
 
 const testimonials = [
   {
-    name: 'Binod Chaudhary',
-    position: 'CEO, Himalayan Solutions',
-    company: 'Himalayan Solutions',
+    name: 'Roshan Sah',
+    position: 'CEO, Tesla Infrastructure ',
+    company: 'Tesla Infrastructure ',
     rating: 5,
     text: 'Solutions Path Technology transformed our outdated system into a modern, efficient platform. Their team\'s expertise and dedication are unmatched. Highly recommended!',
     logo: 'HS'
   },
   {
-    name: 'Sunita Dangol',
-    position: 'Managing Director, Nepal Trade Center',
-    company: 'Nepal Trade Center',
+    name: 'Ashutosh Karn',
+    position: 'Managing Director, Engineers Vlogs',
+    company: 'Engineers Vlogs',
     rating: 5,
     text: 'Working with Solutions Path was a game-changer for our e-commerce business. They delivered a beautiful, functional online store that increased our sales by 150%.',
     logo: 'NTC'
   },
   {
     name: 'Prakash Adhikari',
-    position: 'Founder, EduNepal',
+    position: 'Founder, XYZ',
     company: 'EduNepal',
     rating: 5,
     text: 'The team\'s professionalism and technical knowledge are exceptional. They built our educational platform from scratch and continue to provide excellent support.',
@@ -28,7 +28,7 @@ const testimonials = [
   },
   {
     name: 'Rina Maharjan',
-    position: 'Director, Artisan Nepal',
+    position: 'Director, XYZ',
     company: 'Artisan Nepal',
     rating: 5,
     text: 'Outstanding work! They understood our vision and created a website that perfectly represents our brand. The ongoing support has been fantastic.',

@@ -53,6 +53,9 @@ export function Footer() {
               >
                 <Twitter className="w-5 h-5" />
               </a>
+              
+              
+
             </div>
           </div>
 
@@ -143,11 +146,11 @@ export function Footer() {
       <div className="border-t border-white/10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           {/* Under Construction Notice */}
-          <div className="bg-yellow-500/10 border border-yellow-500/30 rounded-lg p-4 mb-6 text-center">
+          {/* <div className="bg-yellow-500/10 border border-yellow-500/30 rounded-lg p-4 mb-6 text-center">
             <p className="text-yellow-300 text-sm">
               🚧 <span className="font-semibold">Website Under Development</span> - Some features are still being worked on. Thank you for your patience!
             </p>
-          </div>
+          </div> */}
 
           {/* Under Construction Notice */}
           <div className="bg-yellow-500/10 border border-yellow-500/30 rounded-lg p-4 mb-6 text-center">
@@ -158,7 +161,7 @@ export function Footer() {
 
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-gray-400 text-sm text-center md:text-left">
-              Copyright © 2023 Solutions Path Technology Pvt. Ltd. All rights reserved.
+              Copyright © 2026 Solutions Path Technology Pvt. Ltd. All rights reserved.
             </p>
             <div className="flex gap-6 text-sm">
               <a href="#" className="text-gray-400 hover:text-white transition-colors">

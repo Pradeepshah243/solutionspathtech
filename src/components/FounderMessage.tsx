@@ -2,16 +2,24 @@ import { ImageWithFallback } from './figma/ImageWithFallback';
 import { Quote } from 'lucide-react';
 
 const founders = [
+  // {
+  //   name: 'Ram Prasad Neupane',
+  //   role: 'Co-Founder & CEO',
+  //   image: 'https://images.unsplash.com/photo-1742119803195-aaf41d6b2e61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBDRU8lMjBwb3J0cmFpdCUyMGNvcnBvcmF0ZXxlbnwxfHx8fDE3NzAwMTA4MzF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+  //   message: '"At Solutions Path Technology, we believe that innovation is not just about technology—it\'s about understanding our clients\' needs and crafting solutions that truly make a difference. Since founding this company in 2023, our mission has been clear: to empower Nepali businesses with world-class digital solutions."'
+  // },
+
   {
-    name: 'Ram Prasad Neupane',
-    role: 'Co-Founder & CEO',
-    image: 'https://images.unsplash.com/photo-1742119803195-aaf41d6b2e61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBDRU8lMjBwb3J0cmFpdCUyMGNvcnBvcmF0ZXxlbnwxfHx8fDE3NzAwMTA4MzF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-    message: '"At Solutions Path Technology, we believe that innovation is not just about technology—it\'s about understanding our clients\' needs and crafting solutions that truly make a difference. Since founding this company in 2023, our mission has been clear: to empower Nepali businesses with world-class digital solutions."'
-  },
+  name: 'Pradeep Raut',
+  role: 'Co-Founder & CEO',
+  image: '/images/founders/man.jpeg',
+  message: '"At Solutions Path Technology, we believe that innovation is not just about technology—it\'s about understanding our clients\' needs and crafting solutions that truly make a difference. Since founding this company in 2023, our mission has been clear: to empower Nepali businesses with world-class digital solutions."'
+},
+
   {
-    name: 'Sita Sharma',
+    name: 'Suraj Sah',
     role: 'Co-Founder & CTO',
-    image: 'https://images.unsplash.com/photo-1740153204804-200310378f2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBhc2lhbiUyMGJ1c2luZXNzd29tYW4lMjBDRU8lMjBwb3J0cmFpdHxlbnwxfHx8fDE3NzAwMTE4MDB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+    image: '/images/founders/man.jpeg',
     message: '"Technology is the bridge between dreams and reality. Our team\'s dedication to excellence and continuous innovation drives everything we do. We\'re proud to be 100% Nepali-owned and committed to contributing to Nepal\'s digital transformation journey."'
   }
 ];

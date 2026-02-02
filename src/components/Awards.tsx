@@ -15,7 +15,7 @@ const awards = [
   },
   {
     icon: CheckCircle,
-    title: '100+ Projects Delivered',
+    title: '10+ Projects Delivered',
     description: 'Successfully completed projects across various industries',
     color: 'from-green-500 to-green-600'
   },
@@ -81,11 +81,11 @@ export function Awards() {
               <div className="text-blue-200">Years in Business</div>
             </div>
             <div>
-              <div className="text-4xl md:text-5xl mb-2">100+</div>
+              <div className="text-4xl md:text-5xl mb-2">10+</div>
               <div className="text-blue-200">Projects Completed</div>
             </div>
             <div>
-              <div className="text-4xl md:text-5xl mb-2">50+</div>
+              <div className="text-4xl md:text-5xl mb-2">5+</div>
               <div className="text-blue-200">Happy Clients</div>
             </div>
             <div>
